@@ -1,0 +1,211 @@
+@media screen and (min-width:320px) and (max-width:767px) {
+
+	.logo{
+      margin-left: -30px;
+      height: 40px;
+      width: 20px;
+      margin-top: 10px;
+	}
+    .logo1{
+     margin-top: -50px;
+    }
+}
+@media (max-width: 767px) {
+    .section-tittle h2 {
+        font-size:40px;
+        margin-top: 90px;
+    }    
+}
+
+@media (max-width: 767px) {
+    .testimonial-area  {
+        padding-top:80px;
+        padding-bottom: 130px;
+        margin-top: 500px;
+    }
+
+  .testimonial-area.testimonial-padding {
+        margin-top: -200px;
+    }
+}
+
+
+.blog_item_img:hover{
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+   transition: transform .2s; /* Animation */
+}    
+.legal-practice-area{
+  margin-top: -150px;
+}
+
+.section-tittle h2::before {
+    position: absolute;
+    content: "";
+    width: 155px;
+    height: 5px;
+    background: #000080
+    right: 0;
+    background:  #000080;
+    left: 0;
+    bottom: 0;
+    margin: 0 auto;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+.wrapper1{
+ margin-top: -200px;
+}
+
+@media (max-width: 767px) {
+    .testimonial-padding {
+        padding-top:80px;
+        padding-bottom: 130px;
+        margin-top: -500px;
+    }
+}
+
+.testimonial-padding {
+  padding-top:74px;
+  padding-bottom: 130px;
+  margin-top: -330px;
+    }
+.logo1{
+      margin-top: 25px;
+
+    }    
+
+@media (max-width: 767px) {
+    .logo1{
+      margin-top: 18px;
+
+    }       
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    }
+  }  
+
+.card-body{
+  background-color: #000080;
+}     
+
+.card-body h4{
+  color: white;
+  font-weight: bold;
+  align-items: center;
+  margin-left: 25px;
+  
+}
+
+.card-body:hover{
+  background-color: whitesmoke;
+}
+
+
+.card-body h4:hover{
+  color: #000080;
+}
+
+.btn-primary{
+ margin: 10px;
+ color: white;
+ background-color: #000080;
+ color: white;
+}
+.btn-primary:hover{
+  background-color: whitesmoke;
+  color:white;
+}
+.testimonial-area.testimonial-padding {
+        margin-top: -200px;
+    }
+
+.card-body2 img{
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+   transition: transform .2s; /* Animation */
+}
+
+@media (max-width: 767px) {
+   .card-body2 img{
+     width: 250px;
+ }
+} 
+@media (max-width: 991px) {
+    .contact-section {
+        padding: 100px 0 40px;
+    }
+
+    .section-tittle{
+        padding: 60px;
+    }
+
+    .card-body2{
+    margin-left: -50px;
+    }
+    .card-body1{
+    margin-left: -10px;
+    }
+}
+
+.card-body3{
+ font-weight: bold;
+ color: black;
+}
+.button{
+    margin: 10px;
+ color: white;
+ border-radius: 7px;
+ background-color: #000080;
+ height: 40px;
+}
+.button:hover{
+ background-color: whitesmoke;
+ color: #000080;
+}
+
+@media (max-width: 767px) {
+    .testimonial-area  {
+        padding-top:80px;
+        padding-bottom: 130px;
+        margin-top: 500px;
+    }
+
+  .testimonial-area.testimonial-padding {
+        margin-top: -150px;
+    }
+}
+
+@media (max-width: 767px) {
+    .logo1{
+    margin-left: 20px;
+    margin-top: -10px;
+    width: 290px;
+    }
+
+    .logo1 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 290px;
+     height: 90px;
+    }
+}
+
+@media (max-width: 767px) {
+    .section-tittle h2 {
+        font-size:40px;
+        margin-top: 90px;
+        margin-left: -40px;
+    }    
+}
+
+@media (max-width: 767px) {
+    .section-tittle h2 {
+        font-size:40px;
+        margin-top: 90px;
+    }    
+}
+
